@@ -38,7 +38,7 @@ const Navbar = () => {
 
   return (
     <AppBar className={classes.appBar} position="static" color="inherit">
-      <Link to="/react-memories"  className={classes.brandContainer}>
+      <Link to="/"  className={classes.brandContainer}>
           <Typography className={classes.heading} variant="h4"
                       align="center">Memories</Typography>
           <img className={classes.image} src={memories} alt="icon" height="40"/>
@@ -52,7 +52,7 @@ const Navbar = () => {
             <Button variant="contained" className={classes.logout} color="secondary" onClick={logout}>Logout</Button>
           </div>
         ) : (
-          <Button component={Link} to="/react-memories/auth" variant="contained" color="primary">Sign In</Button>
+          <Button component={Link} to="/auth" variant="contained" color="primary">Sign In</Button>
         )}
       </Toolbar>
     </AppBar>

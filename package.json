@@ -33,7 +33,7 @@
     "build": "react-scripts build --legacy-peer-deps",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "preinstall": "npm install --legacy-peer-deps",
     "deploy": "gh-pages -d build"
   },
   "engines": {
