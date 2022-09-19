@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/react-memories/static/css/main.7d57ae18.chunk.css",
-    "main.js": "/react-memories/static/js/main.269a7598.chunk.js",
-    "main.js.map": "/react-memories/static/js/main.269a7598.chunk.js.map",
+    "main.js": "/react-memories/static/js/main.694d5189.chunk.js",
+    "main.js.map": "/react-memories/static/js/main.694d5189.chunk.js.map",
     "runtime-main.js": "/react-memories/static/js/runtime-main.15c5dc88.js",
     "runtime-main.js.map": "/react-memories/static/js/runtime-main.15c5dc88.js.map",
     "static/js/2.4a9100e4.chunk.js": "/react-memories/static/js/2.4a9100e4.chunk.js",
     "static/js/2.4a9100e4.chunk.js.map": "/react-memories/static/js/2.4a9100e4.chunk.js.map",
     "index.html": "/react-memories/index.html",
-    "precache-manifest.f3fe86fc57de0ebca9a7d250c0e5035a.js": "/react-memories/precache-manifest.f3fe86fc57de0ebca9a7d250c0e5035a.js",
+    "precache-manifest.dbe7154b6e9f7e4ac19739ab00e9b5e1.js": "/react-memories/precache-manifest.dbe7154b6e9f7e4ac19739ab00e9b5e1.js",
     "service-worker.js": "/react-memories/service-worker.js",
     "static/css/main.7d57ae18.chunk.css.map": "/react-memories/static/css/main.7d57ae18.chunk.css.map",
     "static/js/2.4a9100e4.chunk.js.LICENSE.txt": "/react-memories/static/js/2.4a9100e4.chunk.js.LICENSE.txt",
-    "static/js/main.269a7598.chunk.js.LICENSE.txt": "/react-memories/static/js/main.269a7598.chunk.js.LICENSE.txt",
+    "static/js/main.694d5189.chunk.js.LICENSE.txt": "/react-memories/static/js/main.694d5189.chunk.js.LICENSE.txt",
     "static/media/landscape.svg": "/react-memories/static/media/landscape.3bce0eb7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.15c5dc88.js",
     "static/js/2.4a9100e4.chunk.js",
     "static/css/main.7d57ae18.chunk.css",
-    "static/js/main.269a7598.chunk.js"
+    "static/js/main.694d5189.chunk.js"
   ]
 }
