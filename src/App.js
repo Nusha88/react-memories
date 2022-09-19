@@ -14,11 +14,11 @@ const App = () => {
       <Container maxWidth="lg">
         <Navbar/>
         <Routes>
-          <Route path="/" element={<Navigate replace to="/posts" />} />
-          <Route path="/posts" exact element={<Home/>} />
-          <Route path="/posts/search" exact element={<Home/>} />
-          <Route path="/posts/:id" exact element={<PostDetails/>} />
-          <Route path="/auth" exact element={!user ? <Auth /> : <Navigate to="/posts" replace />} />
+          <Route path="/react-memories" element={<Navigate replace to="/react-memories/posts" />} />
+          <Route path="/react-memories/posts" exact element={<Home/>} />
+          <Route path="/react-memories/posts/search" exact element={<Home/>} />
+          <Route path="/react-memories/posts/:id" exact element={<PostDetails/>} />
+          <Route path="/react-memories/auth" exact element={!user ? <Auth /> : <Navigate to="/react-memories/posts" replace />} />
         </Routes>
       </Container>
     </BrowserRouter>
